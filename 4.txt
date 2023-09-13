@@ -1,0 +1,3 @@
+Мы выставили требуемые значения параметров, но поведение функции  не изменилось. Логи прилагаются.
+Перевод:
+We set the required parameter values, but the function's behavior did not change. Logs are attached.
