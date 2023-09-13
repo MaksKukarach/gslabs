@@ -1,0 +1,1 @@
+grep -w "cd" ~/.bash_history
