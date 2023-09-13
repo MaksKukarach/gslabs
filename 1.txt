@@ -1,1 +1,19 @@
 grep -w "cd" ~/.bash_history
+
+Результат:
+cd Code/
+cd C
+cd ..
+cd LETI/
+cd lab1/
+cd ..
+cd practice1/
+cd Code/
+cd LETI/
+cd lab1/
+cd
+cd ~/Code/LETI/lab1
+cd
+cd code/
+cd LETI/
+cd practice1/
