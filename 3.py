@@ -1,6 +1,8 @@
 import unittest
 
 def max_number(a, b):
+    if not (isinstance(a, (int, float)) and isinstance(b, (int, float))):
+        return -1
     try:
         return max(a, b)
     except:
